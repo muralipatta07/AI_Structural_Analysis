@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Backups
+*.bak
+mass_read_backup_*/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Output images (regenerated at runtime)
+g30_output/*.png
+
+# Salesforce / IDE metadata
+.sf/
+
+# Windows shortcuts
+*.lnk
+
+# Byte-compiled
+*.spec

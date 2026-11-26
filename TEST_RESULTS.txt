@@ -1,0 +1,36 @@
+test_empty_geometry (test_audited_app.CoreTests.test_empty_geometry) ... ok
+test_empty_headers_do_not_match (test_audited_app.CoreTests.test_empty_headers_do_not_match) ... ok
+test_empty_table_never_claims_result (test_audited_app.CoreTests.test_empty_table_never_claims_result) ... ok
+test_filter_missing_field_is_not_ignored (test_audited_app.CoreTests.test_filter_missing_field_is_not_ignored) ... ok
+test_invalid_spectrum_parameters (test_audited_app.CoreTests.test_invalid_spectrum_parameters) ... ok
+test_locked_state_alone_not_finished_case (test_audited_app.CoreTests.test_locked_state_alone_not_finished_case) ... ok
+test_nonzero_api_write_stops (test_audited_app.CoreTests.test_nonzero_api_write_stops) ... ok
+test_numeric_missing_is_not_zero (test_audited_app.CoreTests.test_numeric_missing_is_not_zero) ... ok
+test_real_typelib_array_marshalling (test_audited_app.CoreTests.test_real_typelib_array_marshalling) ... ok
+test_spectrum_respects_end_period (test_audited_app.CoreTests.test_spectrum_respects_end_period) ... ok
+test_successful_write_invalidates_generation (test_audited_app.CoreTests.test_successful_write_invalidates_generation) ... ok
+test_table_column_aliases (test_audited_app.CoreTests.test_table_column_aliases) ... ok
+test_table_shape (test_audited_app.CoreTests.test_table_shape) ... ok
+test_units_restore_after_error (test_audited_app.CoreTests.test_units_restore_after_error) ... ok
+test_wall_period_requires_wall_data (test_audited_app.CoreTests.test_wall_period_requires_wall_data) ... ok
+test_zero_name_count_is_empty (test_audited_app.CoreTests.test_zero_name_count_is_empty) ... ok
+test_axis_proxy_cannot_auto_change_case (test_audited_app.OperationTests.test_axis_proxy_cannot_auto_change_case) ... ok
+test_combination_missing_mapping_preserves_existing (test_audited_app.OperationTests.test_combination_missing_mapping_preserves_existing) ... ok
+test_eigen_subtype_parameters (test_audited_app.OperationTests.test_eigen_subtype_parameters) ... ok
+test_mass_flags_preserve_other_sources (test_audited_app.OperationTests.test_mass_flags_preserve_other_sources) ... ok
+test_mass_negative_factor_rejected (test_audited_app.OperationTests.test_mass_negative_factor_rejected) ... ok
+test_modal_invalid_input_precedes_writes (test_audited_app.OperationTests.test_modal_invalid_input_precedes_writes) ... ok
+test_modal_results_indices_and_selection_restore (test_audited_app.OperationTests.test_modal_results_indices_and_selection_restore) ... ok
+test_no_result_output_is_rejected (test_audited_app.OperationTests.test_no_result_output_is_rejected) ... ok
+test_reports_distinguish_preview (test_audited_app.OperationTests.test_reports_distinguish_preview) ... ok
+test_reports_flag_stale_after_model_change (test_audited_app.OperationTests.test_reports_flag_stale_after_model_change) ... ok
+test_ritz_is_not_written_as_eigen (test_audited_app.OperationTests.test_ritz_is_not_written_as_eigen) ... ok
+test_zero_base_shear_is_not_a_pass (test_audited_app.OperationTests.test_zero_base_shear_is_not_a_pass) ... ok
+test_action_bar_in_grid_parent (test_audited_app.UITests.test_action_bar_in_grid_parent) ... ok
+test_all_18_modules_and_reports_construct (test_audited_app.UITests.test_all_18_modules_and_reports_construct) ... ok
+test_empty_dropdown_is_combobox (test_audited_app.UITests.test_empty_dropdown_is_combobox) ... ok
+
+----------------------------------------------------------------------
+Ran 31 tests in 4.531s
+
+OK

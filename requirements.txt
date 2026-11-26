@@ -1,0 +1,8 @@
+comtypes
+mcp<2
+matplotlib
+anthropic
+openpyxl
+ezdxf
+numpy
+openseespy
